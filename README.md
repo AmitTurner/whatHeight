@@ -3,6 +3,6 @@ whatHeight is a visual playing and learning tool 🎉 allowing you to compare he
 
 http://whatHeight.com
 
-This github exist to allow users to raise suggestions for new lists and to report bugs.
+This Repository exist to allow users to raise suggestions for new lists and to report bugs.
 
 
