@@ -1,4 +1,5 @@
-whatHeight is a visual playing and learning tool allowing you to compare heights of everything you ever wondered about!🎉
+whatHeight is a visual playing and learning tool 🎉 allowing you to compare heights of everything you ever wondered about!
+
 
 http://whatHeight.com
 
